@@ -1,7 +1,7 @@
 # .Net CLI Usage
 |  Purpose  | Command |
 | :-- | :-- | 
-|To Create gitignore file | ```bash dotnet new gitignore``` |
+|To Create gitignore file | ```dotnet new gitignore```|
 |To add diary migration | ```add-migration CreateDiaryEntryTable``` |
 |To comit migrations to database | ``update-database`` |
 |To seed diary migration | ```add-migration seedingDiary``` |
